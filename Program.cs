@@ -24,7 +24,7 @@ for (int i = 0; i < maxPets; i++)
     switch (i)
     {
         case 0:
-            animalSpecies = "dog";
+            animalSpecies = "Cachoro";
             animalID = "d1";
             animalAge = "2";
             animalPhysicalDescription = "medium sized cream colored female golden retriever weighing about 45 pounds. housebroken.";
@@ -34,7 +34,7 @@ for (int i = 0; i < maxPets; i++)
             break;
 
         case 1:
-            animalSpecies = "dog";
+            animalSpecies = "Cachoro";
             animalID = "d2";
             animalAge = "9";
             animalPhysicalDescription = "large reddish-brown male golden retriever weighing about 85 pounds. housebroken.";
@@ -44,7 +44,7 @@ for (int i = 0; i < maxPets; i++)
             break;
 
         case 2:
-            animalSpecies = "cat";
+            animalSpecies = "Gato";
             animalID = "c3";
             animalAge = "1";
             animalPhysicalDescription = "small white female weighing about 8 pounds. litter box trained.";
@@ -54,7 +54,7 @@ for (int i = 0; i < maxPets; i++)
             break;
 
         case 3:
-            animalSpecies = "cat";
+            animalSpecies = "Gato";
             animalID = "c4";
             animalAge = "";
             animalPhysicalDescription = "";
